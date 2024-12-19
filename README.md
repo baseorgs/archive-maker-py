@@ -16,4 +16,4 @@ To work with `.rar` and `.7z` archives, you need to install the `rar` and `7z` u
 To create an archive from the specified folder, run the following command:
 
 ```bash
-python script.py /path/to/folder archive_name .zip .tar .gz
+python script.py /path/to/folder archive_name .zip
